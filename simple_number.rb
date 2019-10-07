@@ -15,4 +15,8 @@ class SimpleNumber
     @x * y
   end
 
+  def sub(y)
+    @x - y
+  end
+
 end
